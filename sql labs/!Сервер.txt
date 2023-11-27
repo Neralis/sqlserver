@@ -1,0 +1,2 @@
+EDU-MSSQL2014\EDUMSSQL2014 - для лекционных занятий
+EDU-MSSQL2008R2 - для ЛР
